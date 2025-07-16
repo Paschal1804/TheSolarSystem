@@ -191,7 +191,7 @@
     align-items: top;
     justify-content: center;
     padding: 20px;
-    background-image:url(/images/mercury.webp);
+    background-image:url(images/mercury.webp);
     background-size: contain;
     background-position: center;
     
@@ -334,7 +334,7 @@ form button {
     align-items: top;
     justify-content: center;
     padding: 20px;
-    background-image:url(/images/mercury.webp);
+    background-image:url(images/mercury.webp);
     background-size: contain;
     background-position: center;
 }

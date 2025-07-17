@@ -414,7 +414,7 @@ form button {
 }
 
     .body1-side {
-        display: none
+        display: none;
     }
 }
 @media (max-width: 480px) {

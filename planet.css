@@ -447,7 +447,7 @@ form button {
 .dropdown-menu {
   position: absolute;
   top: 100%;
-  left: -120px;
+  left: -150px;
   background-color: black;
   color: white;
   padding: 5px;

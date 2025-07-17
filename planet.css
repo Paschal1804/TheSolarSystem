@@ -395,7 +395,9 @@ form button {
     height: 60px;
     justify-content: space-between;
   }
-
+.nav2{
+  display: none;
+}
 
   .nav-links{
     display: flex;
@@ -405,11 +407,6 @@ form button {
     display: none;
 
 }
-  .body1-side {
-
-display: none;
-
-  }
 }
 @media (max-width: 480px) {
 
@@ -427,12 +424,36 @@ display: none;
     display: none
   }
 
-  .body1-side {
+ .nav2 {
+  display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 50%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-display: none;
-
-  }
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: -100px;
+  background-color: black;
+  color: white;
+  padding: 5px;
   
+  border-radius: 5px;
+  
+}
+.dropdown-menu >li > a {
+  color: orange;
+  text-decoration: none;
+  font-size: 12px;
+  padding: 5px;
+
+}
+
   .footer {
     flex-direction: column;
     height: auto;

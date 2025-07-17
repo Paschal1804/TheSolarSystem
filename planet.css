@@ -316,11 +316,11 @@ form button {
 
 
 .body1-h {
-    width: 60%;
+    width: 50%;
     height: auto;
     display: flex;
     flex-direction: row;
-    align-items: top;
+    align-items: center;
     justify-content: center;
     padding: 20px;
 

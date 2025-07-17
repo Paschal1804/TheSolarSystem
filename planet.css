@@ -319,7 +319,7 @@ form button {
     width: 50%;
     height: auto;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 20px;

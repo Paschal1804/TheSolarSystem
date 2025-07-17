@@ -316,7 +316,7 @@ form button {
 
 
 .body1-h {
-    width: 80%;
+    width: 60%;
     height: auto;
     display: flex;
     flex-direction: row;
@@ -416,6 +416,17 @@ form button {
     .body1-side {
         display: none;
     }
+
+    .body1-h {
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: center;
+    padding: 20px;
+
+}
 }
 @media (max-width: 480px) {
 
@@ -466,7 +477,17 @@ form button {
 .body1-side {
         display: none
     }
+.body1-h {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: center;
+    padding: 20px;
 
+}
+    
   .footer {
     flex-direction: column;
     height: auto;

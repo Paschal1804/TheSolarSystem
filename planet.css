@@ -317,7 +317,7 @@ form button {
 
 .body1-h {
     width: 50%;
-    height: auto;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;

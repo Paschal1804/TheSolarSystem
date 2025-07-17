@@ -463,6 +463,10 @@ form button {
 
 }
 
+.body2{
+        display: none
+    }
+
   .footer {
     flex-direction: column;
     height: auto;

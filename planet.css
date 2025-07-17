@@ -101,6 +101,11 @@
     justify-content: center;
 }
 
+.nav2{
+  display: none
+}
+
+
 .nav-links {
   display: flex;
   justify-content: space-between;
